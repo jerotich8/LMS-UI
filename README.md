@@ -11,7 +11,7 @@ The system can be used to:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/jerotich8/Library-Management-System.git
+   git clone https://github.com/jerotich8/LMS-UI.git
 
 
 ## Disclaimer
